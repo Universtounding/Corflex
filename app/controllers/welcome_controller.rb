@@ -4,7 +4,7 @@ class WelcomeController < ApplicationController
 
   end
 
-  def about_me
+  def about
 
   end
 
